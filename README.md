@@ -1,2 +1,2 @@
 # Just-A-test
-Beta Edition
+Realy, this is nothing extept a test.
